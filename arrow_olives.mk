@@ -10,7 +10,7 @@ $(call inherit-product, device/xiaomi/olives/device.mk)
 $(call inherit-product, vendor/arrow/config/common.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := lineage_olives
+PRODUCT_NAME := arrow_olives
 PRODUCT_DEVICE := olives
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 8 Series
