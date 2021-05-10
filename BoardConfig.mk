@@ -147,4 +147,3 @@ VENDOR_SECURITY_PATCH := 2021-02-01
 
 # Inherit from the proprietary version
 -include vendor/xiaomi/olives/BoardConfigVendor.mk
-© 2021 GitHub, Inc.
